@@ -1,0 +1,4 @@
+#;are;1;file2.txt;1;#
+#;how;1;file2.txt;1;#
+#;hello;1;file2.txt;1;#
+#;you;1;file2.txt;1;#
